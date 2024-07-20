@@ -1,0 +1,263 @@
+===== SP15 506 BUS BASED CACHE Configuration =====
+L1_SIZE:		32768
+L1_ASSOC:		4
+L1_BLOCKSIZE:		64
+NUMBER OF PROCESSORS:	16
+COHERENCE PROTOCOL:	MOSI 
+TRACE FILE:		../../../../tkesava/canneal_tracefile
+============ Simulation results (Cache 0) ============ 
+1 . number of reads:                      272
+2 . number of read misses:                10
+3 . number of writes:                     19999728
+4 . number of write misses:               5
+5 . total miss rate:                      0.000001
+6 . number of writebacks:                 0
+7 . number of memory transactions:        15
+8 . number of cache-to-cache transfers:   0
+9 . number of interventions:              0
+10. number of invalidations:              0
+11. number of flushes:                    0
+12. number of BusRds issued:              10
+13. number of BusRdXs issued:             5
+14. number of BusUpgrs issued:            0
+15. number of BusWrs issued:              0
+============ Simulation results (Cache 1) ============ 
+1 . number of reads:                      0
+2 . number of read misses:                0
+3 . number of writes:                     0
+4 . number of write misses:               0
+5 . total miss rate:                      -nan
+6 . number of writebacks:                 0
+7 . number of memory transactions:        0
+8 . number of cache-to-cache transfers:   0
+9 . number of interventions:              0
+10. number of invalidations:              0
+11. number of flushes:                    0
+12. number of BusRds issued:              0
+13. number of BusRdXs issued:             0
+14. number of BusUpgrs issued:            0
+15. number of BusWrs issued:              0
+============ Simulation results (Cache 2) ============ 
+1 . number of reads:                      0
+2 . number of read misses:                0
+3 . number of writes:                     0
+4 . number of write misses:               0
+5 . total miss rate:                      -nan
+6 . number of writebacks:                 0
+7 . number of memory transactions:        0
+8 . number of cache-to-cache transfers:   0
+9 . number of interventions:              0
+10. number of invalidations:              0
+11. number of flushes:                    0
+12. number of BusRds issued:              0
+13. number of BusRdXs issued:             0
+14. number of BusUpgrs issued:            0
+15. number of BusWrs issued:              0
+============ Simulation results (Cache 3) ============ 
+1 . number of reads:                      0
+2 . number of read misses:                0
+3 . number of writes:                     0
+4 . number of write misses:               0
+5 . total miss rate:                      -nan
+6 . number of writebacks:                 0
+7 . number of memory transactions:        0
+8 . number of cache-to-cache transfers:   0
+9 . number of interventions:              0
+10. number of invalidations:              0
+11. number of flushes:                    0
+12. number of BusRds issued:              0
+13. number of BusRdXs issued:             0
+14. number of BusUpgrs issued:            0
+15. number of BusWrs issued:              0
+============ Simulation results (Cache 4) ============ 
+1 . number of reads:                      0
+2 . number of read misses:                0
+3 . number of writes:                     0
+4 . number of write misses:               0
+5 . total miss rate:                      -nan
+6 . number of writebacks:                 0
+7 . number of memory transactions:        0
+8 . number of cache-to-cache transfers:   0
+9 . number of interventions:              0
+10. number of invalidations:              0
+11. number of flushes:                    0
+12. number of BusRds issued:              0
+13. number of BusRdXs issued:             0
+14. number of BusUpgrs issued:            0
+15. number of BusWrs issued:              0
+============ Simulation results (Cache 5) ============ 
+1 . number of reads:                      0
+2 . number of read misses:                0
+3 . number of writes:                     0
+4 . number of write misses:               0
+5 . total miss rate:                      -nan
+6 . number of writebacks:                 0
+7 . number of memory transactions:        0
+8 . number of cache-to-cache transfers:   0
+9 . number of interventions:              0
+10. number of invalidations:              0
+11. number of flushes:                    0
+12. number of BusRds issued:              0
+13. number of BusRdXs issued:             0
+14. number of BusUpgrs issued:            0
+15. number of BusWrs issued:              0
+============ Simulation results (Cache 6) ============ 
+1 . number of reads:                      0
+2 . number of read misses:                0
+3 . number of writes:                     0
+4 . number of write misses:               0
+5 . total miss rate:                      -nan
+6 . number of writebacks:                 0
+7 . number of memory transactions:        0
+8 . number of cache-to-cache transfers:   0
+9 . number of interventions:              0
+10. number of invalidations:              0
+11. number of flushes:                    0
+12. number of BusRds issued:              0
+13. number of BusRdXs issued:             0
+14. number of BusUpgrs issued:            0
+15. number of BusWrs issued:              0
+============ Simulation results (Cache 7) ============ 
+1 . number of reads:                      0
+2 . number of read misses:                0
+3 . number of writes:                     0
+4 . number of write misses:               0
+5 . total miss rate:                      -nan
+6 . number of writebacks:                 0
+7 . number of memory transactions:        0
+8 . number of cache-to-cache transfers:   0
+9 . number of interventions:              0
+10. number of invalidations:              0
+11. number of flushes:                    0
+12. number of BusRds issued:              0
+13. number of BusRdXs issued:             0
+14. number of BusUpgrs issued:            0
+15. number of BusWrs issued:              0
+============ Simulation results (Cache 8) ============ 
+1 . number of reads:                      0
+2 . number of read misses:                0
+3 . number of writes:                     0
+4 . number of write misses:               0
+5 . total miss rate:                      -nan
+6 . number of writebacks:                 0
+7 . number of memory transactions:        0
+8 . number of cache-to-cache transfers:   0
+9 . number of interventions:              0
+10. number of invalidations:              0
+11. number of flushes:                    0
+12. number of BusRds issued:              0
+13. number of BusRdXs issued:             0
+14. number of BusUpgrs issued:            0
+15. number of BusWrs issued:              0
+============ Simulation results (Cache 9) ============ 
+1 . number of reads:                      0
+2 . number of read misses:                0
+3 . number of writes:                     0
+4 . number of write misses:               0
+5 . total miss rate:                      -nan
+6 . number of writebacks:                 0
+7 . number of memory transactions:        0
+8 . number of cache-to-cache transfers:   0
+9 . number of interventions:              0
+10. number of invalidations:              0
+11. number of flushes:                    0
+12. number of BusRds issued:              0
+13. number of BusRdXs issued:             0
+14. number of BusUpgrs issued:            0
+15. number of BusWrs issued:              0
+============ Simulation results (Cache 10) ============ 
+1 . number of reads:                      0
+2 . number of read misses:                0
+3 . number of writes:                     0
+4 . number of write misses:               0
+5 . total miss rate:                      -nan
+6 . number of writebacks:                 0
+7 . number of memory transactions:        0
+8 . number of cache-to-cache transfers:   0
+9 . number of interventions:              0
+10. number of invalidations:              0
+11. number of flushes:                    0
+12. number of BusRds issued:              0
+13. number of BusRdXs issued:             0
+14. number of BusUpgrs issued:            0
+15. number of BusWrs issued:              0
+============ Simulation results (Cache 11) ============ 
+1 . number of reads:                      0
+2 . number of read misses:                0
+3 . number of writes:                     0
+4 . number of write misses:               0
+5 . total miss rate:                      -nan
+6 . number of writebacks:                 0
+7 . number of memory transactions:        0
+8 . number of cache-to-cache transfers:   0
+9 . number of interventions:              0
+10. number of invalidations:              0
+11. number of flushes:                    0
+12. number of BusRds issued:              0
+13. number of BusRdXs issued:             0
+14. number of BusUpgrs issued:            0
+15. number of BusWrs issued:              0
+============ Simulation results (Cache 12) ============ 
+1 . number of reads:                      0
+2 . number of read misses:                0
+3 . number of writes:                     0
+4 . number of write misses:               0
+5 . total miss rate:                      -nan
+6 . number of writebacks:                 0
+7 . number of memory transactions:        0
+8 . number of cache-to-cache transfers:   0
+9 . number of interventions:              0
+10. number of invalidations:              0
+11. number of flushes:                    0
+12. number of BusRds issued:              0
+13. number of BusRdXs issued:             0
+14. number of BusUpgrs issued:            0
+15. number of BusWrs issued:              0
+============ Simulation results (Cache 13) ============ 
+1 . number of reads:                      0
+2 . number of read misses:                0
+3 . number of writes:                     0
+4 . number of write misses:               0
+5 . total miss rate:                      -nan
+6 . number of writebacks:                 0
+7 . number of memory transactions:        0
+8 . number of cache-to-cache transfers:   0
+9 . number of interventions:              0
+10. number of invalidations:              0
+11. number of flushes:                    0
+12. number of BusRds issued:              0
+13. number of BusRdXs issued:             0
+14. number of BusUpgrs issued:            0
+15. number of BusWrs issued:              0
+============ Simulation results (Cache 14) ============ 
+1 . number of reads:                      0
+2 . number of read misses:                0
+3 . number of writes:                     0
+4 . number of write misses:               0
+5 . total miss rate:                      -nan
+6 . number of writebacks:                 0
+7 . number of memory transactions:        0
+8 . number of cache-to-cache transfers:   0
+9 . number of interventions:              0
+10. number of invalidations:              0
+11. number of flushes:                    0
+12. number of BusRds issued:              0
+13. number of BusRdXs issued:             0
+14. number of BusUpgrs issued:            0
+15. number of BusWrs issued:              0
+============ Simulation results (Cache 15) ============ 
+1 . number of reads:                      0
+2 . number of read misses:                0
+3 . number of writes:                     0
+4 . number of write misses:               0
+5 . total miss rate:                      -nan
+6 . number of writebacks:                 0
+7 . number of memory transactions:        0
+8 . number of cache-to-cache transfers:   0
+9 . number of interventions:              0
+10. number of invalidations:              0
+11. number of flushes:                    0
+12. number of BusRds issued:              0
+13. number of BusRdXs issued:             0
+14. number of BusUpgrs issued:            0
+15. number of BusWrs issued:              0
